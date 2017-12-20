@@ -52,6 +52,13 @@
 * LOW to PIN will turn off the LED. 
 
 ## Using the digital Input PINs
+* Button will be simplest input as it's state is being decided by user not by arduino. 
+
+#### PINs with ~ on digital PINs side ( Analog Output ) 
+* In actual these PINs never give output as analog
+* Pulse with modulation ( PWM ) technique is being used to give output as analog. 
+* Half of time it will be 5V and Half of time it will be 0V. It is too fast and human eyes will see LED as half as brightness. 
+
 
 
 
