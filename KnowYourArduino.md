@@ -57,7 +57,16 @@
 #### PINs with ~ on digital PINs side ( Analog Output ) 
 * In actual these PINs never give output as analog
 * Pulse with modulation ( PWM ) technique is being used to give output as analog. 
-* Half of time it will be 5V and Half of time it will be 0V. It is too fast and human eyes will see LED as half as brightness. 
+* Half of time it will be 5V and Half of time it will be 0V. It is too fast and human eyes will see LED as half as brightness.
+
+## Analog Input PINs
+* A0-A5 are analog input PINs
+* Input value can varry between 0 to 1023. 
+* 0 reading means 0V
+* 1023 reading means 5V
+* Reading x means (x * 5 ) / 1023 V
+
+
 
 
 
