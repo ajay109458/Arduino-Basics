@@ -10,7 +10,7 @@
 * [Temperature Sensor](docs/TemperatureSensor.md)
 * [KeyPad 4x4](docs/KeyPad4x4.md)
 * [Seven Segment Display](docs/SevenSegmentDisplay.md)
-* [Motor DC](docs/MotorDC.md)
+* [Motor DC](docs/motorDC.md)
 * [LCD Display](docs/LCDDisplay.md)
 
 ## Projects
