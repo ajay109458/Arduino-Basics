@@ -12,6 +12,7 @@
 * [Seven Segment Display](docs/SevenSegmentDisplay.md)
 * [Motor DC](docs/motorDC.md)
 * [LCD Display](docs/LCDDisplay.md)
+* [Ultrasonic Distance Sensor](docs/UltrasonicDistanceSensor.md)
 
 ## Projects
 * [Musical Keyboard](docs/MusicalKeyboard.md)
